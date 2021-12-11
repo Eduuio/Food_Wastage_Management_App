@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300568188405",
+    "project_id": "mauth-c0bad",
+    "storage_bucket": "mauth-c0bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300568188405:android:6aa1d40d1afa027987fcbc",
+        "android_client_info": {
+          "package_name": "com.example.mfoodwastemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300568188405-faqa7pbvoljc6960u95qrgcv104pl618.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFoE6IZkUpytcrJeppQDV_pm9mxfA44Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300568188405-faqa7pbvoljc6960u95qrgcv104pl618.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
